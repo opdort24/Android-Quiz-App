@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Learn Quiz App</string>
+
+    <string name="question_1">
+        1. The lady in the diagram is a well known musician across africa,
+        she is a citizen of which country?
+    </string>
+
+    <string name="question_2">
+        2. The diagram shows an amazing wall built in the ancient time in an acient
+        country, which country can this great wall be found?
+    </string>
+
+    <string name="question_3">
+        3. Which of the following countries are french speaking countries in Europe
+    </string>
+
+    <string name="question_4">
+        4. In space provided below write the name of the country that produces the largest amount
+        of crude oil in the world.
+    </string>
+
+    <string name="welcome">
+        Welcome!!!\n\nHow much do you know about countries in the world?\n\nEnter your name below to begin.\n
+    </string>
+
+</resources>
+
+
